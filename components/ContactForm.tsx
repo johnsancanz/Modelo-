@@ -64,7 +64,7 @@ const ContactForm: React.FC = () => {
             </div>
 
             <button className="w-full py-6 bg-primary text-black font-black text-xl rounded-2xl hover:scale-[1.02] transition-all active:scale-95 shadow-[0_20px_50px_rgba(0,210,255,0.2)]">
-              Solicitar Asesoría Gratuita
+              Solicitar Asesoría
             </button>
           </form>
         )}

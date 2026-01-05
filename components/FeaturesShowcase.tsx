@@ -69,7 +69,7 @@ const FeaturesShowcase: React.FC = () => {
             </div>
             <h2 className="text-4xl md:text-6xl font-black leading-[1] tracking-tighter">
               Escala Sin <br />
-              <span className="bg-gradient-to-r from-purple-400 via-pink-500 to-rose-500 bg-clip-text text-transparent">Contratando a más personas</span>
+              <span className="bg-gradient-to-r from-purple-400 via-pink-500 to-rose-500 bg-clip-text text-transparent">Contratar a más personas</span>
             </h2>
             <p className="text-base md:text-lg text-white/40 leading-relaxed font-light">
               Desde la generación avanzada de clientes potenciales y la automatización de las redes sociales hasta sistemas de datos complejos. Imagina duplicar tu producción sin duplicar tu equipo. Sistemas de IA personalizados que manejan el trabajo de 5-10 empleados, funcionando 24/7 sin errores. Ese no es el futuro. Eso es lo que construimos hoy.
